@@ -1,8 +1,8 @@
 ---
 Title: "My First Blog"
-Date: "2024-09-18"
-Categories: "My First Blog"
-Tag: "My First Blog"
+Date: 2024-09-18
+Categories: [My First Blog]
+Tag: [My First Blog]
 ---
 
 #My First Blog
